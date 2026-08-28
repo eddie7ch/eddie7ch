@@ -37,6 +37,6 @@ Documentation-only repos for production/client work whose source stays private �
 
 | Project | Summary |
 | --- | --- |
-| **[Leverage AI](https://github.com/eddie7ch/leverage-ai-prototype-showcase)** *(live product, real clients)* | AI missed-call recovery for home-service businesses. Twilio + Claude tool-use + Google Calendar; the AI is constrained to three forced-tool outcomes (ask / escalate / book) — it never freelances a price or a promised arrival time. Running in production today. |
-| **[PromptSense](https://github.com/eddie7ch/promptsense-showcase)** | AI usage cost-management toolkit — token/cost estimation, budget alerts, a caching/model-routing reverse proxy, shipped as a CLI, GUI, MCP server, and local proxy sharing one engine. |
-| **[VRMS](https://github.com/eddie7ch/vrms-showcase)** | Vehicle rental management system — fleet, customers, reservations, billing, and reporting, ASP.NET Core MVC + EF Core, deployed on Azure. |
+| **[Leverage AI](https://github.com/eddie7ch/project-showcases/tree/master/leverage-ai-prototype-showcase)** *(live product, real clients)* | AI missed-call recovery for home-service businesses. Twilio + Claude tool-use + Google Calendar; the AI is constrained to three forced-tool outcomes (ask / escalate / book) — it never freelances a price or a promised arrival time. Running in production today. |
+| **[PromptSense](https://github.com/eddie7ch/project-showcases/tree/master/promptsense-showcase)** | AI usage cost-management toolkit — token/cost estimation, budget alerts, a caching/model-routing reverse proxy, shipped as a CLI, GUI, MCP server, and local proxy sharing one engine. |
+| **[VRMS](https://github.com/eddie7ch/project-showcases/tree/master/vrms-showcase)** | Vehicle rental management system — fleet, customers, reservations, billing, and reporting, ASP.NET Core MVC + EF Core, deployed on Azure. |
