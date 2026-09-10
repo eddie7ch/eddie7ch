@@ -1,6 +1,6 @@
 # Hi, I'm Eddie 👋
 
-Full-stack software engineer completing a Software Development Diploma (Apprenticeship Style) at Bow Valley College. I take end-to-end ownership of projects: architecture, implementation, deployment, and docs, across React/TypeScript frontends and Python/Node.js/C# backends, with hands-on experience integrating LLM APIs (Anthropic Claude, OpenAI GPT-4o) into production-facing products.
+Full-stack software developer completing a Software Development Diploma (Apprenticeship Style) at Bow Valley College. I take end-to-end ownership of projects: architecture, implementation, deployment, and docs, across React/TypeScript frontends and Python/Node.js/C# backends, with hands-on experience integrating LLM APIs (Anthropic Claude, OpenAI GPT-4o) into production-facing products.
 
 - 🔭 Building a self-directed portfolio of AI-powered apps under my brand, **[MLEbotics](https://mlebotics.com)**: RAG/LLM systems, voice assistants, autonomous desktop agents, and mobile apps
 - 📄 [Resume/CV](https://github.com/eddie7ch) · [LinkedIn](https://linkedin.com/in/eddiechongtham)
