@@ -25,6 +25,15 @@ Full source is public; each has a one-command local setup.
 | **[Dev Portfolio Dashboard](https://github.com/eddie7ch/dev-portfolio-react)** | React + TypeScript dashboard that fetches my public repos live via a typed Express API and renders them with optional AI-generated taglines. |
 | **[GCP Cloud Run Demo](https://github.com/eddie7ch/gcp-cloudrun-demo)** | Shareable todo list, no sign-up. Node/Express + SQLite, containerized and deployed to Cloud Run. |
 
+## Coursework
+
+School projects from Bow Valley College's Software Development diploma. Repos go public once each course wraps.
+
+| Project | Summary |
+| --- | --- |
+| **Enterprise Cloud Developer — Serverless AWS API** *(TECH2451 Cloud Development, in progress)* | Serverless coupon API: Lambda behind API Gateway, DynamoDB, JWT auth, S3 presigned URLs, Kinesis streams, SNS pub/sub, least-privilege IAM. Unit-tested (Jest) and end-to-end tested (Postman/Newman) against LocalStack. Repo goes public after the course wraps in December. |
+| **[Volunteam](https://github.com/eddie7ch/sodv2453-mobile-application-development-ii)** *(SODV2453 Mobile Application Development II)* | Cross-platform mobile app (React Native, Expo, TypeScript) for browsing and joining volunteer events, with map-based location display and photo upload. |
+
 ## Closed-source showcases
 
 Documentation-only repos for production/client work whose source stays private. Each README explains why and links a live demo where one exists.
