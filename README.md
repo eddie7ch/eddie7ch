@@ -23,7 +23,6 @@ Full source is public; each has a one-command local setup.
 | **[Algorithm Visualizer](https://github.com/eddie7ch/algo-visualizer)**: sorting & pathfinding, from scratch | Six sorts, four pathfinding algorithms (BFS/DFS/Dijkstra/A*), every one implemented as a generator function with no library shortcuts. |
 | **[AI Learning Companion](https://github.com/eddie7ch/simple-ai-learning-companion)** | React + Express prototype with a live Groq-backed AI tutor: scores and gives feedback on submitted work, recommends a personalized next step from activity history, and answers questions via chat with voice dictation. |
 | **[Dev Portfolio Dashboard](https://github.com/eddie7ch/dev-portfolio-react)** | React + TypeScript dashboard that fetches my public repos live via a typed Express API and renders them with optional AI-generated taglines. |
-| **[GCP Cloud Run Demo](https://github.com/eddie7ch/gcp-cloudrun-demo)** | Shareable todo list, no sign-up. Node/Express + SQLite, containerized and deployed to Cloud Run. |
 
 ## Coursework
 
